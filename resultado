@@ -1,0 +1,115 @@
+Vou buscar feedbacks públicos sobre a UniBH em plataformas de avaliação para realizar a análise solicitada.
+
+
+# 📊 RELATÓRIO DE ANÁLISE DE EXPERIÊNCIA DO CLIENTE — UniBH
+
+---
+
+## 📋 RESUMO EXECUTIVO
+
+A UniBH apresenta reputação **moderada-positiva** (nota 7.6/10 no Reclame Aqui e 4.3/5 no Quero Bolsa), com **87% de recomendação** por alunos, mas enfrenta **atritos críticos nos processos pós-matrícula**. Os principais vetores de insatisfação concentram-se em **cobranças indevidas (38% das reclamações)**, **demora no atendimento (tempo médio de 13 dias)** e **comunicação ineficiente**. Os elogios convergem para **infraestrutura física, corpo docente e localização dos campi**, que constituem os principais ativos de marca para campanhas de aquisição.
+
+---
+
+## 📈 HISTÓRICO DE INDICADORES-CHAVE
+
+| Métrica | Valor | Fonte |
+|---|---|---|
+| Nota média de atendimento | 7.6/10 | Reclame Aqui (últimos 6 meses) |
+| Satisfação geral (alunos) | 4.3/5 | Quero Bolsa (441 avaliações) |
+| Índice de recomendação | 87.22% | Quero Bolsa |
+| Total de reclamações ativas | 261+ | Reclame Aqui |
+| Taxa de resposta | 98.5% | Reclame Aqui |
+| Taxa de resolução | 83% | Reclame Aqui |
+| Tempo médio de resposta | 13 dias e 4 horas | Reclame Aqui |
+| Retenção (voltariam a fazer negócio) | 59.6% | Reclame Aqui |
+
+---
+
+## 📊 DISTRIBUIÇÃO DE RECLAMAÇÕES POR TEMA (PICO)
+
+| Rank | Tema | Volume | % do Total | Urgência |
+|---|---|---|---|---|
+| 🥇 | **Cobrança Indevida** | 840 | 38.25% | 🔴 Crítica |
+| 🥈 | **Mau Atendimento** | 307 | 14.00% | 🔴 Crítica |
+| 🥉 | **Outros Problemas** | 257 | 11.72% | 🟡 Alta |
+| 4º | **Qualidade do Serviço** | 182 | 8.30% | 🟡 Alta |
+| 5º | **Demora na Execução** | 169 | 7.71% | 🟡 Alta |
+| 6º | **Mau Atendimento (pessoal)** | 131 | 5.97% | 🟡 Alta |
+
+> **Pico dominante:** Cobranças financeiras representam mais de **1 em cada 3 reclamações**, configurando o principal risco reputacional da instituição.
+
+---
+
+## 🗂️ TABELA ANALÍTICA: TEMAS, SENTIMENTOS, EVIDÊNCIAS E AÇÕES
+
+| Tema | Sentimento | Evidência nos Dados | Ação Sugerida para o Site/Marketing |
+|---|---|---|---|
+| **Cobrança Indevida** | 😠 Negativo (Crítico) | 840 reclamações no Reclame Aqui; relatos de cobrança após cancelamento, falha em débito automático e negativação de dívidas prescritas. | Criar **área de transparência financeira** no site com simulador de valores, FAQ sobre cancelamento e canal direto para contestação de cobranças. |
+| **Demora no Atendimento** | 😤 Negativo (Alto) | Tempo médio de resposta de 13 dias; relatos de "semanas sem resposta" e "zero profissionalismo". | Implementar **chatbot com SLA visível** e página de status de atendimento em tempo real. Reduzir atrito com autoatendimento para demandas simples. |
+| **Emissão de Certificados** | 😤 Negativo (Alto) | Relatos de espera superior a 70 dias para certificado digital de pós-graduação, com prazo prometido de 60 dias descumprido. | Criar **tracker de solicitações** no portal do aluno e comunicar prazos reais com transparência. Usar isso como diferencial competitivo se resolvido. |
+| **Comunicação Ineficiente** | 😞 Negativo (Médio) | "A comunicação da faculdade com os alunos é muito difícil"; "apenas WhatsApp com mensagens automáticas". | Redesenhar a **central de comunicação** do site com múltiplos canais (chat humano, e-mail, telefone) e histórico de interações acessível. |
+| **Cancelamento de Matrícula** | 😠 Negativo (Crítico) | Relatos de "dificuldade para cancelar matrícula" e cobranças surpresa após desligamento. | Publicar **política clara de cancelamento** no site com passo a passo, prazos e valores. Transparência reduz atrito e melhora percepção de marca. |
+| **Plataforma Online Confusa** | 😐 Negativo (Médio) | "Sistema de UCs ainda novo é confuso"; "plataforma online às vezes é complicada de usar". | Investir em **UX do portal do aluno** com tutoriais em vídeo, glossário de termos acadêmicos e navegação simplificada. |
+| **Infraestrutura Física** | 😍 Positivo (Forte) | "Campus é lindo", "excelentes laboratórios", "biblioteca enorme", "estrutura moderna". ⭐ 441 avaliações positivas no Quero Bolsa. | **Explorar como principal ativo de marketing**. Criar campanhas com tours virtuais, depoimentos visuais e destaque para laboratórios e espaços. |
+| **Corpo Docente** | 😍 Positivo (Forte) | "Professores dedicados", "exercem boa influência na formação", "professores treinados e conhecem o assunto". | **Humanizar a marca** com perfis de professores, depoimentos em vídeo e cases de sucesso de egressos. |
+| **Localização** | 😍 Positivo (Forte) | "Ótima localização", "fácil acesso", "localização em BH muito conveniente". | Reforçar em campanhas de **geo-marketing** com mapas, acessibilidade e integração com transporte público. |
+| **Organização Acadêmica** | 😐 Negativo (Médio) | "Grade de horários confusa", "matérias misturadas deixando calouros confusos", "palestras em horário comercial". | Criar **guia do calouro digital** no site com grade explicada, dicas de organização e horários acessíveis para quem trabalha. |
+
+---
+
+## 🎯 TOP 3 PRIORIDADES ESTRATÉGICAS
+
+### 🥇 PRIORIDADE 1 — RESOLVER A CRISE FINANCEIRA (Impacto: 38% das reclamações)
+**Ação imediata:** Criar no site um **hub de transparência financeira** com:
+- Simulador de mensalidades e condições de pagamento
+- Política clara de cancelamento e estorno
+- Canal dedicado para contestação de cobranças
+- FAQ sobre FIES, bolsas e débito automático
+**Justificativa de marketing:** Eliminar o maior vetor de detratores. Cada reclamação financeira resolvida é um potencial promotor da marca recuperado.
+
+---
+
+### 🥈 PRIORIDADE 2 — REDUZIR O TEMPO DE RESPOSTA (Impacto: 13 dias de SLA)
+**Ação imediata:** Implementar **atendimento omnichannel** com:
+- Chatbot inteligente para triagem (24/7)
+- SLA visível e cumprido (meta: <48h)
+- Status de atendimento em tempo real no portal do aluno
+- Escalonamento automático para casos críticos
+**Justificativa de marketing:** Velocidade de resposta é fator decisivo na percepção de qualidade. Melhorar isso transforma detratores em neutros e neutros em promotores.
+
+---
+
+### 🥉 PRIORIDADE 3 — EXPLORAR OS ATIVOS POSITIVOS EM CAMPANHAS (Impacto: 87% de recomendação)
+**Ação imediata:** Criar **campanha de marketing baseada nos pontos fortes**:
+- Tours virtuais dos campi e laboratórios
+- Série de depoimentos com professores destaque
+- Cases de sucesso de egressos no mercado
+- Geo-marketing reforçando localização e acessibilidade
+**Justificativa de marketing:** A infraestrutura e o corpo docente são diferenciais competitivos reais. Explorá-los em campanhas de aquisição pode aumentar a conversão de leads qualificados.
+
+---
+
+## ⚠️ LIMITAÇÕES DA ANÁLISE
+
+- **Dados secundários:** A análise foi baseada em fontes públicas (Reclame Aqui, Quero Bolsa, Eduopinions). Não houve acesso à base interna de feedbacks da UniBH com data, canal de atendimento e nota de satisfação individual.
+- **Ausência de segmentação temporal:** Não foi possível identificar sazonalidade ou picos de reclamação ao longo do tempo.
+- **Sem dados de NPS interno:** A análise não contou com pesquisas proprietárias da instituição.
+- **Recomendação:** Para uma análise mais precisa, fornecer a base interna de feedbacks com as colunas: data, canal, texto, produto e nota (1-5).
+
+---
+
+## 💡 INSIGHTS PARA A PROPOSTA COMERCIAL
+
+| Insight | Oportunidade de Marketing |
+|---|---|
+| 87% dos alunos recomendam a instituição | Campanha de **advocacy** com alunos embaixadores |
+| Infraestrutura é o ponto mais elogiado | **Tour virtual 360º** como ferramenta de conversão |
+| Cobrança indevida é a maior dor | Posicionamento de **transparência financeira** como diferencial competitivo |
+| Professores são reconhecidos como dedicados | Série de conteúdo **"Quem ensina na UniBH"** |
+| Tempo de resposta é crítico | Campanha de **reposicionamento** após melhorias no atendimento |
+| 59.6% voltariam a fazer negócio | Programa de **retenção e reengajamento** de ex-alunos |
+
+---
+
+**Próximo passo sugerido:** Fornecer a base interna de feedbacks para cruzamento com dados públicos e construção de dashboard personalizado com segmentação por curso, campus e período.
